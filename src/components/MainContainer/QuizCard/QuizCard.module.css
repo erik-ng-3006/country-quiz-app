@@ -1,9 +1,18 @@
+.quiz-card {
+	position: relative;
+	padding: 4rem 2rem 2rem 2rem;
+}
+.quiz-card img {
+	position: absolute;
+	top: -4.5rem;
+	right: 0;
+}
 .quiz-card h2 {
 	font-size: 1.5rem;
 	margin-bottom: 1rem;
 	color: #2f527b;
 }
-.quiz-card div {
+/* .quiz-card div {
 	display: flex;
 	align-items: center;
 	border: 2px solid #6066d0b2;
@@ -27,7 +36,7 @@
 }
 .quiz-card div p {
 	font-size: 1.125rem;
-}
+} */
 .quiz-card button {
 	margin-left: 70%;
 	font-size: 1.125rem;
@@ -45,3 +54,9 @@
 	cursor: pointer;
 	background-color: rgba(249, 168, 38, 0.7);
 }
+
+/* .quiz-card .correct-answer {
+	color: white;
+	background-color: #60bf88;
+	border: 2px solid white;
+} */

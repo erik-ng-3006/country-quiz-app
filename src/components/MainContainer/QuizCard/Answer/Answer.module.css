@@ -1,0 +1,38 @@
+.answer {
+	position: relative;
+	display: flex;
+	align-items: center;
+	border: 2px solid #6066d0b2;
+	margin-bottom: 1rem;
+	border-radius: 0.75rem;
+	padding: 0.5rem;
+	color: #6066d0cc;
+	transition: all 300ms ease-out;
+}
+
+.answer:hover {
+	border-color: white;
+	color: white;
+	background-color: #f9a826;
+	cursor: pointer;
+}
+.answer span {
+	margin-right: 3rem;
+	font-size: 1.5rem;
+	height: 100%;
+}
+.answer p {
+	font-size: 1.125rem;
+}
+
+.answer .correct-answer {
+	color: white;
+	background-color: #60bf88;
+	border: 2px solid white;
+}
+
+.icon {
+	color: white;
+	position: absolute;
+	right: 1rem;
+}
