@@ -1,5 +1,4 @@
 import React from 'react';
-import QuizCard from './QuizCard/QuizCard';
 import classes from './MainContainer.module.css';
 const MainContainer = (props) => {
 	return (
