@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from '../../UI/Card';
 import classes from './ResultsCard.module.css';
-import { Link, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { quizActions } from '../../../store/quiz-slice';
 const ResultsCard = () => {
