@@ -51,7 +51,12 @@
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+-   [x] User story: I can see at least 2 types of questions: a city is the capital of.. or a flag belong to country..
+-   [x] User story: I can see select an answer
+-   [x] User story: I can see if my answer is correct or incorrect
+-   [x] User story: When I answer correctly, I can move on to the next question
+-   [x] User story: When I answer incorrectly, I can see my results and try again
+-   [x] User story: I can try again
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8) was to build an application to complete the given user stories.
 
